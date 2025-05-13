@@ -14,3 +14,9 @@ In statistics, linear regression is used to model relationships between independ
 ❓The SimpleImputer class from the sklearn.impute module in scikit-learn is used to handle missing values in datasets and replaces missing values with a specified placeholder using different strategies.
 🤖 Scikit-learn, commonly known as Sklearn, provides a user-friendly interface for all kinds of machine learning.
 
+# Plots
+## Plot 1
+![Image](https://github.com/user-attachments/assets/56875d14-d9fd-4e64-a10f-36df66d58981)
+## Plot 2
+![Image](https://github.com/user-attachments/assets/56875d14-d9fd-4e64-a10f-36df66d58981)
+
