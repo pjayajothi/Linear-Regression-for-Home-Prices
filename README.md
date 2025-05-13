@@ -11,7 +11,7 @@ In statistics, linear regression is used to model relationships between independ
 🔢 NumPy offers a robust foundation for numerical operations and data analysis.<br>
 📖 Pandas lets you to analyze, clean, explore, and manipulate data from different sources.<br>
 📈 Matplotlib transforms your data into compelling visuals like 2D graphs and bar charts.<br>
-❓The SimpleImputer class from the sklearn.impute module in scikit-learn is used to handle missing values in datasets and replaces missing values with a specified placeholder using different strategies. <br>
+❓The SimpleImputer class from the sklearn.impute module is used to handle/replace missing values in datasets with a placeholder using different strategies. <br>
 🤖 Scikit-learn, commonly known as Sklearn, provides a user-friendly interface for all kinds of machine learning.<br>
 
 # Plots
