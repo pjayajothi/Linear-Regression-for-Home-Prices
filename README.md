@@ -6,7 +6,8 @@ Create a linear regression model to predict house prices based on house sizes. U
 In statistics, linear regression is used to model relationships between independent x variables (e.g., house sizes) and a dependent y variable (e.g., house prices) by fitting a linear equation to observed data.
 
 # Our Tools of Choice
-📑Dataset: <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset?select=realtor-data.zip.csv">Real Estate listings</a> in the US broken by State and zip code from Kaggle by Ahmed Shahriar Sakib.
+📑Dataset: <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset?select=realtor-data.zip.csv">Real Estate listings</a> in the US broken by State and zip code from Kaggle by Ahmed Shahriar Sakib.<br>
+Note: We will only be using the foorst 1000 records from this data set as it is already a very large amount of data.<br>
 ## Libraries:
 🔢 NumPy offers a robust foundation for numerical operations and data analysis.<br>
 📖 Pandas lets you to analyze, clean, explore, and manipulate data from different sources.<br>
