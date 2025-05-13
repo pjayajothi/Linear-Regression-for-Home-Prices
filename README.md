@@ -7,7 +7,7 @@ In statistics, linear regression is used to model relationships between independ
 
 # Our Tools of Choice
 📑Dataset: <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset?select=realtor-data.zip.csv">Real Estate listings</a> in the US broken by State and zip code from Kaggle by Ahmed Shahriar Sakib.<br>
-Note: We will only be using the foorst 1000 records from this data set as it is already a very large amount of data.<br>
+Note: We will only be using the first 1000 records from this data set as it is already a very large amount of data.<br>
 ## Libraries:
 🔢 NumPy offers a robust foundation for numerical operations and data analysis.<br>
 📖 Pandas lets you to analyze, clean, explore, and manipulate data from different sources.<br>
